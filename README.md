@@ -15,3 +15,8 @@ O projeto portfólio foi proposto durante o treinamento da Corebiz. Os alunos de
 ### Construído com:
 
 - ReactJS
+
+
+### Site
+
+<img width="1089" alt="Captura de Tela 2021-09-18 às 19 41 34" src="https://user-images.githubusercontent.com/83840866/133910362-45d7c52b-e98a-4cb6-a0b9-196a57d04302.png">
